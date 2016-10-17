@@ -1,14 +1,14 @@
 @font-face {
   font-family: 'Automizy-Icon-Set';
   src:
-    url('fonts/Automizy-Icon-Set.ttf?v9yz8a') format('truetype'),
-    url('fonts/Automizy-Icon-Set.woff?v9yz8a') format('woff'),
-    url('fonts/Automizy-Icon-Set.svg?v9yz8a#Automizy-Icon-Set') format('svg');
+    url('fonts/Automizy-Icon-Set.ttf?n5hvmu') format('truetype'),
+    url('fonts/Automizy-Icon-Set.woff?n5hvmu') format('woff'),
+    url('fonts/Automizy-Icon-Set.svg?n5hvmu#Automizy-Icon-Set') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
-.automizy-icon {
+.auicon {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'Automizy-Icon-Set' !important;
   speak: none;
@@ -23,10 +23,10 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.automizy-icon-automation-box-action-email:before {
+.auicon-automation-box-action-email:before {
   content: "\e900";
 }
-.automizy-icon-automation-box-action-abtest:before {
+.auicon-automation-box-action-abtest:before {
   content: "\e901";
 }
 

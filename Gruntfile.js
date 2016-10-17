@@ -4,7 +4,7 @@ module.exports = function (grunt) {
 		copy: {
 			copytodist: {
 				files: [
-                    {expand: true, cwd: 'font/fonts/', src: '**/*', dest: 'dist/fonts'},
+                    {expand: true, cwd: 'font/fołnts/', src: '**/*', dest: 'dist/fonts'},
                     {expand: true, cwd: 'font/', src: 'style.css', dest: 'dist', rename: function(dest, src) {
                         return dest + '/automizy-icon-set.css';
                     }}
