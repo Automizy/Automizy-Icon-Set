@@ -1,0 +1,32 @@
+{
+  "name": "automizy-icon-set",
+  "description": "Automizy Icon Set",
+  "keywords":[
+    "automizy-icon-set",
+    "automizy",
+    "free"
+  ],
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "build",
+    "AUTHORS.txt",
+    "Gruntfile.js",
+    "package.json"
+  ],
+  "moduleType":[
+    "globals",
+    "amd"
+  ],
+  "authors":[
+    { "name": "Viktor Egri", "email": "viktor.egri@automizy.com" },
+    { "name": "Gyorgy Reti", "email": "gyorgy.reti@automizy.com" },
+    { "name": "Abel Enekes", "email": "abel.enekes@automizy.com" },
+    { "name": "Dominik Sagi", "email": "dominik.sagi@automizy.com" },
+    { "name": "Gabor Koncz", "email": "gabor.koncz@automizy.com" }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/automizy/automizy-icon-set.git"
+  }
+}

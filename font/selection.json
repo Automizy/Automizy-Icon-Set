@@ -1,0 +1,175 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M846.025 869.239h-670.63c-98.015 0-177.975-79.96-177.975-177.975v-361.108c2.579-98.015 82.539-175.395 180.554-175.395h670.63c98.015 0 177.975 79.96 177.975 177.975v363.688c-2.579 95.436-82.539 172.816-180.554 172.816zM177.975 226.982c-56.746 0-103.174 46.428-103.174 103.174v363.688c0 56.746 46.428 103.174 103.174 103.174h670.63c56.746 0 103.174-46.428 103.174-103.174v-363.688c0-56.746-46.428-103.174-103.174-103.174-2.579 0-670.63 0-670.63 0z",
+          "M508.131 621.622c-46.428 0-90.277-18.055-123.809-51.587l-324.997-324.997 51.587-51.587 324.997 322.418c38.69 38.69 105.753 38.69 144.443 0l324.997-322.418 51.587 51.587-324.997 324.997c-33.531 33.531-79.96 51.587-123.809 51.587v0z"
+        ],
+        "attrs": [
+          {
+            "fill": "rgb(0, 0, 0)"
+          },
+          {
+            "fill": "rgb(0, 0, 0)"
+          }
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "tags": [
+          "automation-box-action-email"
+        ],
+        "defaultCode": 59648,
+        "grid": 14
+      },
+      "attrs": [
+        {
+          "fill": "rgb(0, 0, 0)"
+        },
+        {
+          "fill": "rgb(0, 0, 0)"
+        }
+      ],
+      "properties": {
+        "order": 37,
+        "name": "automation-box-action-email",
+        "prevSize": 32,
+        "id": 0,
+        "code": 59648
+      },
+      "setIdx": 0,
+      "setId": 1,
+      "iconIdx": 0
+    },
+    {
+      "icon": {
+        "paths": [
+          "M1024 766.065c0 43.849-36.111 79.96-79.96 79.96s-79.96-36.111-79.96-79.96 36.111-79.96 79.96-79.96c43.849 0 79.96 36.111 79.96 79.96z",
+          "M121.229 742.851h758.327v46.428h-758.327c0 0 0-46.428 0-46.428z",
+          "M0 686.106h121.229v159.919h-121.229v-159.919z",
+          "M423.013 492.655h-177.975l-41.27 110.912h-59.325l165.078-425.592h51.587l162.499 425.592h-59.325l-41.27-110.912zM263.093 446.227h144.443l-72.222-196.030-72.222 196.030z",
+          "M585.511 603.567v-425.592h139.285c43.849 0 79.96 10.317 103.174 28.373 25.793 18.055 38.69 49.008 38.69 87.698 0 18.055-5.159 36.111-18.055 51.587s-28.373 25.793-46.428 33.531c25.793 5.159 46.428 18.055 61.904 38.69s23.214 43.849 23.214 69.642c0 38.69-12.897 69.642-38.69 90.277s-59.325 30.952-103.174 30.952l-159.919-5.159zM642.257 358.529h92.856c20.635 0 38.69-5.159 51.587-18.055s20.635-28.373 20.635-49.008c0-23.214-7.738-41.27-20.635-51.587-15.476-10.317-36.111-18.055-61.904-18.055h-82.539c-0 2.579-0 136.705-0 136.705zM642.257 404.957v154.761h100.594c25.793 0 46.428-5.159 61.904-20.635 15.476-12.897 23.214-30.952 23.214-54.166 0-25.793-5.159-43.849-18.055-59.325-12.897-12.897-30.952-20.635-56.746-20.635l-110.912 0z"
+        ],
+        "attrs": [
+          {
+            "fill": "rgb(0, 0, 0)"
+          },
+          {
+            "fill": "rgb(0, 0, 0)"
+          },
+          {
+            "fill": "rgb(0, 0, 0)"
+          },
+          {
+            "fill": "rgb(0, 0, 0)"
+          },
+          {
+            "fill": "rgb(0, 0, 0)"
+          }
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "tags": [
+          "automation-box-action-abtest"
+        ],
+        "defaultCode": 59649,
+        "grid": 14
+      },
+      "attrs": [
+        {
+          "fill": "rgb(0, 0, 0)"
+        },
+        {
+          "fill": "rgb(0, 0, 0)"
+        },
+        {
+          "fill": "rgb(0, 0, 0)"
+        },
+        {
+          "fill": "rgb(0, 0, 0)"
+        },
+        {
+          "fill": "rgb(0, 0, 0)"
+        }
+      ],
+      "properties": {
+        "order": 36,
+        "name": "automation-box-action-abtest",
+        "prevSize": 32,
+        "id": 1,
+        "code": 59649
+      },
+      "setIdx": 0,
+      "setId": 1,
+      "iconIdx": 1
+    }
+  ],
+  "height": 1024,
+  "metadata": {
+    "name": "Automizy-Icon-Set",
+    "url": "https://automizy.com",
+    "designer": "Viktor Egri",
+    "designerURL": "https://automizy.com",
+    "license": "MIT",
+    "licenseURL": "https://opensource.org/licenses/MIT"
+  },
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "automizy-icon-",
+      "metadata": {
+        "fontFamily": "Automizy-Icon-Set",
+        "majorVersion": 1,
+        "minorVersion": 0,
+        "fontURL": "https://automizy.com",
+        "description": "Automizy Icon Set",
+        "designer": "Viktor Egri",
+        "designerURL": "https://automizy.com",
+        "license": "MIT",
+        "licenseURL": "https://opensource.org/licenses/MIT"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false,
+      "ie7": false,
+      "noie8": true,
+      "showSelector": true,
+      "showVersion": true,
+      "showMetadata": true,
+      "showMetrics": true,
+      "autoHost": false,
+      "includeMetadata": false,
+      "cssVars": false,
+      "cssVarsFormat": "scss",
+      "selector": "class",
+      "classSelector": ".automizy-icon"
+    },
+    "imagePref": {
+      "prefix": "automizy-icon-",
+      "png": true,
+      "useClassSelector": false,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon",
+      "height": 32,
+      "columns": 16,
+      "margin": 16,
+      "pdf": false
+    },
+    "historySize": 100,
+    "showCodes": false,
+    "gridSize": 16,
+    "quickUsageToken": {
+      "Automizy": "YTllNzNmYWU1ZTY3MGE2YjBlMDc5ZmU5NGU1NmJkMDQjMSMxNDc2NTIzNDkzIyMj"
+    },
+    "showGrid": false,
+    "showLiga": false
+  }
+}
