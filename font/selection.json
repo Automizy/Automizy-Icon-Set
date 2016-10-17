@@ -18,7 +18,7 @@
         "isMulticolor": false,
         "isMulticolor2": false,
         "tags": [
-          "automation-box-action-email"
+          "automation-box-action-mail"
         ],
         "defaultCode": 59648,
         "grid": 14
@@ -32,8 +32,8 @@
         }
       ],
       "properties": {
-        "order": 40,
-        "name": "automation-box-action-email",
+        "order": 41,
+        "name": "automation-box-action-mail",
         "prevSize": 32,
         "id": 0,
         "code": 59648
@@ -94,7 +94,7 @@
         }
       ],
       "properties": {
-        "order": 39,
+        "order": 42,
         "name": "automation-box-action-abtest",
         "prevSize": 32,
         "id": 1,
